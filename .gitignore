@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+arduino_build/
+build/
+*.elf
+*.hex
+*.bin
